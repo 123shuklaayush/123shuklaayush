@@ -4,7 +4,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on DSA and Web Development
 - 🌱 I’m currently learning Frameworks For Web Dev
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Java, Web dev(basically frontend) etc.
 - 📫 How to reach me: 123shuklaayush@gmail.com
 - 😄 Pronouns: He/His
