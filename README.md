@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working on DSA and Web Development
 - 🌱 I’m currently a Front-end Developer.
-- 💬 Ask me about Java, frontend development etc.
+- 💬 Ask me about Java, MERN development etc.
 - 📫 How to reach me: 123shuklaayush@gmail.com
 
 ## 🌐 Socials:
